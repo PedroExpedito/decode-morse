@@ -1,2 +1,3 @@
-# decode-morse
- Decodificador de código morse desenvolvido como desafio da plataforma CodeWars
+# Decode morse
+
+Decodificador de código morse desenvolvido como solução para o desafio da plataforma CodeWars.
